@@ -102,3 +102,12 @@ print(chicago_mayor[1:5])
 # when we get 1 character/letter
 # its called string indexing
 # when we get a chunk of letters from a string it is called string slicing
+
+phrase3 = "supercagifragilstic"
+# uppercase it
+print(phrase3.upper())
+# slice super out os it into differentn varibles
+cut = phrase3[0:5]
+print(cut)
+# slice cagi out of phrase3 into its own variab;le
+# print last letter
