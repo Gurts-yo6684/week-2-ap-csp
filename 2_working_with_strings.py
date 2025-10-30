@@ -90,3 +90,15 @@ print(chicago_mayor[0])
 print(chicago_mayor[-1])
 # get the s in the string
 print(chicago_mayor[-3])
+# slicing
+# get the "son" from the string
+print(chicago_mayor[4:])
+# The first number in slicing is inclusing
+# The second number is exclusive get the string "John"
+print(chicago_mayor[0:4])
+print(chicago_mayor[0:-3])
+# get ohns
+print(chicago_mayor[1:5])
+# when we get 1 character/letter
+# its called string indexing
+# when we get a chunk of letters from a string it is called string slicing
