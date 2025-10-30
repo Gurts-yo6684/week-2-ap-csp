@@ -22,12 +22,13 @@ print(name.upper())
 print(len(name))
 
 # 3. Combine your name and favorite color into one message
-
+print(f"{name} and {favorite_color}")
 
 #  Step 3: Math Practice
 # Use arithmetic operators with your favorite number
-
-
+num1 = "3"
+numb2 = "3"
+num3 = int(init("What is your 3rd fav"))
 #  Step 4: User Input Practice
 # Ask the user two questions and combine answers
 
