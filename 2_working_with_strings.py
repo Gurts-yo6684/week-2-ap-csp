@@ -83,3 +83,10 @@ print(intro_fstring)
 
 declaration_of_indipendence = "The unanimous Declaration of the thirteen united States of America, When in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation."
 print({declaration_of_indipendence})
+
+chicago_mayor = "Johnson"
+print(chicago_mayor[0])
+# get the last character 
+print(chicago_mayor[-1])
+# get the s in the string
+print(chicago_mayor[-3])
